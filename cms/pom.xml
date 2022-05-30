@@ -5,7 +5,7 @@
   <parent>
     <groupId>myproject14</groupId>
     <artifactId>myproject14</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
   </parent>
   <artifactId>myproject14-cms</artifactId>
   <packaging>war</packaging>
