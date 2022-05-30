@@ -12,7 +12,7 @@
   <description>My Project</description>
   <groupId>myproject14</groupId>
   <artifactId>myproject14</artifactId>
-  <version>0.2.0</version>
+  <version>0.2.1</version>
   <packaging>pom</packaging>
 
   <!-- 
@@ -122,12 +122,12 @@
     <pluginManagement>
       <plugins>
          <plugin>
-            <groupId>com.amashchenko.maven.plugin</groupId>
-            <artifactId>gitflow-maven-plugin</artifactId>
-            <version>1.18.0</version>
-            <configuration>
-                <!-- optional configuration -->
-            </configuration>
+          <groupId>com.amashchenko.maven.plugin</groupId>
+          <artifactId>gitflow-maven-plugin</artifactId>
+          <version>1.18.0</version>
+          <configuration>
+            <commitDevelopmentVersionAtStart>true</commitDevelopmentVersionAtStart>
+          </configuration>
         </plugin>
         <!--
           This plugin configuration is used to store Eclipse m2e settings only. It has no influence on the Maven build itself.
