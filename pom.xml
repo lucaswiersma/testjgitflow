@@ -127,6 +127,7 @@
           <version>1.18.0</version>
           <configuration>
             <commitDevelopmentVersionAtStart>true</commitDevelopmentVersionAtStart>
+            <pushRemote>true</pushRemote>
           </configuration>
         </plugin>
         <!--
