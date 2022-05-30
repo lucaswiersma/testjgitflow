@@ -128,6 +128,8 @@
           <configuration>
             <commitDevelopmentVersionAtStart>true</commitDevelopmentVersionAtStart>
             <pushRemote>true</pushRemote>
+            <versionDigitToIncrement>1</versionDigitToIncrement>
+            <hotfixVersionDigitToIncrement>2</hotfixVersionDigitToIncrement>
           </configuration>
         </plugin>
         <!--
