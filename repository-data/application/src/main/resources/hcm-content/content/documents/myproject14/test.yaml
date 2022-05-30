@@ -1,0 +1,48 @@
+/content/documents/myproject14/test:
+  jcr:primaryType: hippo:handle
+  jcr:mixinTypes: ['hippo:versionInfo', 'mix:referenceable']
+  jcr:uuid: 3268fa71-a59f-4309-aab9-50f7dea4226f
+  hippo:versionHistory: c3dc60e9-051f-4e3b-bb91-7560a992aa6a
+  /test[1]:
+    jcr:primaryType: resourcebundle:resourcebundle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: d1dc4c01-c3a4-4bce-af02-384e663ae524
+    hippo:availability: []
+    hippostd:retainable: false
+    hippostd:state: draft
+    hippostdpubwf:createdBy: admin
+    hippostdpubwf:creationDate: 2022-05-23T14:55:07.138+02:00
+    hippostdpubwf:lastModificationDate: 2022-05-23T14:55:07.140+02:00
+    hippostdpubwf:lastModifiedBy: admin
+    resourcebundle:id: fsadf
+    resourcebundle:keys: []
+    resourcebundle:messages: []
+  /test[2]:
+    jcr:primaryType: resourcebundle:resourcebundle
+    jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+    jcr:uuid: a50f6ece-7b35-49a7-91c3-bb8a73df99b5
+    hippo:availability: [preview]
+    hippostd:retainable: false
+    hippostd:state: unpublished
+    hippostdpubwf:createdBy: admin
+    hippostdpubwf:creationDate: 2022-05-23T14:55:07.138+02:00
+    hippostdpubwf:lastModificationDate: 2022-05-23T14:55:58.784+02:00
+    hippostdpubwf:lastModifiedBy: admin
+    resourcebundle:id: fsadf
+    resourcebundle:keys: []
+    resourcebundle:messages: []
+  /test[3]:
+    jcr:primaryType: resourcebundle:resourcebundle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 9506a21b-e432-4d0a-bfd6-9ec66feecfd5
+    hippo:availability: [live]
+    hippostd:retainable: false
+    hippostd:state: published
+    hippostdpubwf:createdBy: admin
+    hippostdpubwf:creationDate: 2022-05-23T14:55:07.138+02:00
+    hippostdpubwf:lastModificationDate: 2022-05-23T14:55:58.784+02:00
+    hippostdpubwf:lastModifiedBy: admin
+    hippostdpubwf:publicationDate: 2022-05-23T14:56:04.693+02:00
+    resourcebundle:id: fsadf
+    resourcebundle:keys: []
+    resourcebundle:messages: []

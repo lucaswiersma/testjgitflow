@@ -1,0 +1,5 @@
+definitions:
+  namespace:
+    myproject14:
+      uri: http://www.myproject14.com/myproject14/nt/1.0
+      cnd: namespaces/myproject14.cnd

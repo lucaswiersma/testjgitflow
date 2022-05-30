@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+  <projectNamespace>myproject14</projectNamespace>
+  <confirmParams>false</confirmParams>
+  <selectedProjectPackage>myproject14</selectedProjectPackage>
+  <selectedBeansPackage>myproject14.beans</selectedBeansPackage>
+  <selectedComponentsPackage>myproject14.components</selectedComponentsPackage>
+  <selectedRestPackage>myproject14.rest</selectedRestPackage>
+  <hstRoot>/hst:myproject14</hstRoot>
+  <webfileBundleName>site</webfileBundleName>
+  <setupDone>false</setupDone>
+  <useSamples>true</useSamples>
+  <extraTemplates>true</extraTemplates>
+</project>
